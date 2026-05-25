@@ -1,0 +1,1 @@
+the conversion factor is: 𝑹𝒂𝒅𝒊𝒂𝒏𝒔= 𝑫𝒆𝒈𝒓𝒆𝒆𝒔∗𝟐∗𝟑.𝟏𝟒𝟏𝟓𝟗 𝟑𝟔𝟎 kepler’s and newton’s laws 4. kepler’s 3rd law – calculating the semi- major axis based on the orbital period (semi-major axis) = ((𝑶𝒓𝒃𝒊𝒕𝒂𝒍 𝑷𝒆𝒓𝒊𝒐𝒅 𝒊𝒏 𝑬𝒂𝒓𝒕𝒉 𝒀𝒆𝒂𝒓𝒔)𝟐𝟏/𝟑 note: note that the period is squared and then taken to the power 1/3. 5.

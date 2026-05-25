@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-deepseek
+langgraph
+elasticsearch
+sentence-transformers
+tiktoken
+PyMuPDF     
+Pillow      
+docx2txt      
+python-pptx   
+fpdf2         
+python-docx   
+regex
+google-search-results  

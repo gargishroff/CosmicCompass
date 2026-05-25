@@ -1,0 +1,1 @@
+there are groupings of the transitions based on the destination of the jumps. these are called series, and some of them have specific names.

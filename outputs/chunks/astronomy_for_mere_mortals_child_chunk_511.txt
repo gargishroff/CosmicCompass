@@ -1,0 +1,1 @@
+wien’s law: calculating temperature from wavelength: 𝑻(𝑲𝒆𝒍𝒗𝒊𝒏) = 𝟐. 𝟗(𝒎𝒎) 𝝀 16. wien’s law: calculating wavelength from temperature: 𝝀= 𝟐. 𝟗(𝒎𝒎) 𝑻(𝑲𝒆𝒍𝒗𝒊𝒏) 17. stefan’s law: calculate energy flux for an object: 𝑭𝒍= 𝝈∗𝑻𝟒 fl is the energy flux t is the temperature in degrees kelvin σ is the constant sigma: 5.67 * 10-8 in watts /meters 2 * kelvin4 18.

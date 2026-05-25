@@ -1,0 +1,1 @@
+calculating distance when the diameter of an object is known: 𝑫𝒊𝒔𝒕𝒂𝒏𝒄𝒆= 𝑫𝒊𝒂𝒎𝒆𝒕𝒆𝒓∗𝟓𝟕. 𝟑 𝑨𝒏𝒈𝒖𝒍𝒂𝒓 𝑫𝒊𝒂𝒎𝒆𝒕𝒆𝒓 note: * is the symbol for multiplication. 2. calculating the diameter of an object when its distance is known: 𝑫𝒊𝒂𝒎𝒆𝒕𝒆𝒓= 𝑫𝒊𝒔𝒕𝒂𝒏𝒄𝒆∗(𝑨𝒏𝒈𝒖𝒍𝒂𝒓 𝑫𝒊𝒂𝒎𝒆𝒕𝒆𝒓) 𝟓𝟕. 𝟑 3.

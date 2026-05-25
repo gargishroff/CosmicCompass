@@ -1,0 +1,1 @@
+purdue university’s “impact: earth” calculator (https://openstax.org/l/30purimpearcal) lets you input the characteristics of an approaching asteroid to determine the effect of its impact on our planet.

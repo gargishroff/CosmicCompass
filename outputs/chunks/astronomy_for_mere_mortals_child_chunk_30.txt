@@ -1,0 +1,1 @@
+you can also calculate its distance if you know its actual width and its angular width.
